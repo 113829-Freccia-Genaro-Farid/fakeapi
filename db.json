@@ -1,0 +1,17 @@
+{
+    "name": "Yerba Playadito",
+    "description": "Yerba para tomar mates por la mañana",
+    "price": 1500,
+    "productType": "Producto",
+    "inventories": [
+        {
+            "location": "Sucursal Río Ceballos",
+            "count": 1500
+        },
+        {
+            "location": "Sucursal Salsipuedes",
+            "count": 500
+        }
+    ]
+
+}
