@@ -16,9 +16,7 @@
             }
         ]
     
-        }
-    ],
-    "servicios":[
+        },
         {
         "name": "Hora Programación",
         "description": "Servicio de programación por hora",
