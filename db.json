@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "Yerba Playadito",
     "description": "Yerba para tomar mates por la mañana",
     "price": 1500,
@@ -15,3 +16,4 @@
     ]
 
 }
+]
