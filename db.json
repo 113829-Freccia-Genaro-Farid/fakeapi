@@ -1,21 +1,50 @@
 {
     "productos": [
-    {
-    "name": "Yerba Playadito",
-    "description": "Yerba para tomar mates por la mañana",
-    "price": 1500,
-    "productType": "Producto",
-    "inventories": [
         {
-            "location": "Sucursal Río Ceballos",
-            "count": 1500
-        },
-        {
-            "location": "Sucursal Salsipuedes",
-            "count": 500
+            "codigo": "P-TOR-001",
+            "nombre": "Torno Pichichus",
+            "descripcion": "Es un torno no un tornillo",
+            "precio_compra": "150.00",
+            "precio_mayorista": "170.00",
+            "precio_minorista": "200.00",
+            "imageURL": "https://imagen-url.com",
+            "dimensiones": "string",
+            "peso": "string",
+            "material": "string",
+            "color": "Rojo river",
+            "paisOrigen": "Argentina",
+            "marca": {
+                "codigo": "M-VER-001",
+                "nombre": "Vertex"
+            },
+            "categorias": [
+                {
+                    "codigo": "C-FER-001",
+                    "nombre": "Ferretería"
+                }
+            ],
+            "ofertas": [
+                {
+                    "codigo": "string",
+                    "nombre": "string",
+                    "descripcion": "string",
+                    "precio_oferta": 0,
+                    "activo": true,
+                    "codigo_producto": "string"
+                }
+            ],
+            "descuentos": [
+                {
+                    "codigo": "string",
+                    "nombre": "string",
+                    "descripcion": "string",
+                    "precio_min": 0,
+                    "precio_top": 0,
+                    "codigo_producto": "string",
+                    "activo": true
+                }
+            ],
+            "activo": true
         }
     ]
-
-    }
-   ]
 }
