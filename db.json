@@ -1,4 +1,5 @@
-[
+{
+    "productos": [
     {
     "name": "Yerba Playadito",
     "description": "Yerba para tomar mates por la mañana",
@@ -15,5 +16,6 @@
         }
     ]
 
+    }
+   ]
 }
-]
